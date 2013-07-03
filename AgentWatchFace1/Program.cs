@@ -73,6 +73,5 @@ namespace AgentWatchFace1
             padded.Append(s);
             return padded.ToString();
         }
-
     }
 }
